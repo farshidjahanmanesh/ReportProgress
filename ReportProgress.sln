@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportProgress.Console", "ReportProgress\ReportProgress.Console.csproj", "{290DECE7-3BE2-44BE-A162-9C2E3F5960D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReportProgress.Win", "ReportProgress.Win\ReportProgress.Win.csproj", "{E88C1537-1700-48F3-A666-25ACE98E3B33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{290DECE7-3BE2-44BE-A162-9C2E3F5960D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{290DECE7-3BE2-44BE-A162-9C2E3F5960D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{290DECE7-3BE2-44BE-A162-9C2E3F5960D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{290DECE7-3BE2-44BE-A162-9C2E3F5960D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E88C1537-1700-48F3-A666-25ACE98E3B33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E88C1537-1700-48F3-A666-25ACE98E3B33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E88C1537-1700-48F3-A666-25ACE98E3B33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E88C1537-1700-48F3-A666-25ACE98E3B33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DCEDD5-CB59-46E0-A365-BF31450ECF67}
+	EndGlobalSection
+EndGlobal
